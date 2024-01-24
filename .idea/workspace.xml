@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e197ecc-8755-411c-b0d2-c305249efe31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nauka_gam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(p1)/p1c4/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(p1)/p1c5/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(p1)/p1c6/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(p1)/p1c7/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(p2)/p2c12/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(p2)/p2c13/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(p2)/p2c15/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(p2)/p2c16/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/szukajgamy/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mode-toggle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/navbar-menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/providers/theme-provider.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2bPF54x36q00oAyDgeqp6qmbT27" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "production",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "S:/nauka_gam/app/szukajgamy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "S:\\nauka_gam\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="S:\nauka_gam\app\szukajgamy" />
+      <recent name="S:\nauka_gam\app\(p2)\p2c16" />
+      <recent name="S:\nauka_gam\app\(p2)\p2c15" />
+      <recent name="S:\nauka_gam\app\(p2)\p2c13" />
+      <recent name="S:\nauka_gam\app\(p2)\p2c12" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e197ecc-8755-411c-b0d2-c305249efe31" name="Changes" comment="" />
+      <created>1706108623813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706108623813</updated>
+      <workItem from="1706108624814" duration="4450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
